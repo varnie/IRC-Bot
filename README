@@ -1,0 +1,6 @@
+This is a simple IRC bot.
+usage: ./IRC-bot.pl
+then on the IRC channel write something like:
+.lt John
+and the bot should output the last John's twitter message if such twitter user exists.
+post shutdown to disconnect it from the channel. 
